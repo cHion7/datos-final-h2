@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Paises>
+    <pais>
+        <pais>Belice</pais>
+        <presidente>Froyla Tzalam</presidente>
+        <PIB>1987</PIB>
+        <Coeficiente>53.3</Coeficiente>
+    </pais>
+    <pais>
+        <pais>El salvador</pais>
+        <presidente>Nayib Bukele</presidente>
+        <PIB>74818</PIB>
+        <Coeficiente>38.3</Coeficiente>
+    </pais>
+    <pais>
+        <pais>Guatemala</pais>
+        <presidente>Alejandro Giammattei</presidente>
+        <PIB>185473</PIB>
+        <Coeficiente>48.3</Coeficiente>
+    </pais>
+    <pais>
+        <pais>Honduras</pais>
+        <presidente>Xiomara Castro</presidente>
+        <PIB>85626</PIB>
+        <Coeficiente>48.2</Coeficiente>
+    </pais>
+    <pais>
+        <pais>Nicaragua</pais>
+        <presidente>Daniel Ortega</presidente>
+        <PIB>47770</PIB>
+        <Coeficiente>46.2</Coeficiente>
+    </pais>
+    <pais>
+        <pais>Mexico</pais>
+        <presidente>Andrés Manuel López Obrador</presidente>
+        <PIB>2890685</PIB>
+        <Coeficiente>45.4</Coeficiente>
+    </pais>
+    <pais>
+        <pais>Panama</pais>
+        <presidente>Laurentino Cortizo</presidente>
+        <PIB>128500</PIB>
+        <Coeficiente>50.9</Coeficiente>
+    </pais>
+    <pais>
+        <pais>Costa rica</pais>
+        <presidente>Rodrigo Chaves</presidente>
+        <PIB>129950</PIB>
+        <Coeficiente>47.2</Coeficiente>
+    </pais>
+</Paises>
